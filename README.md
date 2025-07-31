@@ -1,4 +1,4 @@
-## 👋 ¡Hola! Soy Jhon esneider Gomez Negrete
+## 👋 ¡Hola! Soy Jhon Esneider Gomez Negrete
 
 ¡Bienvenido a mi perfil de GitHub! tengo 19 años y actualmente estoy estudiando en el sena una tecnica en programacion de software y busco mejorar dia con dia y superar mis propias expectativas 
 
