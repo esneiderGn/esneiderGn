@@ -7,7 +7,6 @@
 ### 🌱 Estoy aprendiendo
 
 - 🧠 **Diseño wed y java script**
-- 📱 Programacion en **C#**
 
 ---
 
